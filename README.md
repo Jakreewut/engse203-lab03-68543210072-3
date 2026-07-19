@@ -1,19 +1,16 @@
-LAB 03 — Responsive Web UI & Form Interaction
+## LAB 03 — Responsive Web UI & Form Interaction
 
   นาย จักรีวุฒน์ สุขคำเมือง 68543210072-3  
 
   คำอธิบาย - สร้างหน้าเว็บ responsive สำหรับระบบจัดการงานขนาดย่อม ฝึก semantic HTML, CSS layout, mobile-first design, event และ form validation.  
 
 
-  =======================================================================================
 
-
-
-ลิ้ง github page
+## ลิ้ง github page
 
 https://jakreewut.github.io/engse203-lab03-68543210072-3/  
 
-  ภาพประกอบ   
+## ภาพประกอบ   
 
   <img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/4b29fc67-75ee-4f83-82a4-8d6e4d2924cf" />
   
@@ -32,20 +29,18 @@ https://jakreewut.github.io/engse203-lab03-68543210072-3/
 <img width="499" height="1035" alt="image" src="https://github.com/user-attachments/assets/ab781a68-b1dd-492b-8cf6-00610e552061" />
 
 
- =======================================================================================
 
 
 
-วิธีติ้งตั้ง 
+## วิธีติ้งตั้ง 
 
 -npm run build
 
 -npm run dev
 
- =======================================================================================
 
 
-source code
+## source code
 
 <img width="284" height="312" alt="image" src="https://github.com/user-attachments/assets/c0917ae4-e298-424c-861e-8d98bbce6c76" />
 
