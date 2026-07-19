@@ -13,8 +13,29 @@ https://jakreewut.github.io/engse203-lab03-68543210072-3/
   ภาพประกอบ   
 
   <img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/4b29fc67-75ee-4f83-82a4-8d6e4d2924cf" />
+  
 
-<img width="1443" height="971" alt="image" src="https://github.com/user-attachments/assets/7276a7bc-e955-4c4c-9754-33db0dc778aa" />
+  <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/f7ad4344-93e7-4140-a2b6-5a35e094d9d9" />
+
+
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/bf3f85d5-e69c-4a76-8593-9b9615841311" />
+
+
+
+<img width="1168" height="1027" alt="image" src="https://github.com/user-attachments/assets/75a1b858-5f10-4103-ab36-0557713d499a" />
+
+
+
+<img width="499" height="1035" alt="image" src="https://github.com/user-attachments/assets/ab781a68-b1dd-492b-8cf6-00610e552061" />
+
+
+
+วิธีติ้งตั้ง 
+
+-npm run build
+
+-npm run dev
+
 
 source code
 
